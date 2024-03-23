@@ -23,6 +23,10 @@ header {
     background-color: red;
 }
 
+h1 {
+    font-family: 'Odor Mean Chey' ;
+}
+
 /* Main Content */
 main {
     background-color: aqua;
