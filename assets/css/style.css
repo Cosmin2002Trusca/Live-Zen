@@ -39,6 +39,8 @@ h1 {
     letter-spacing: 4px;
     color: #ffffff;
     font-size: 200%;
+    text-align: center;
+    padding-right: 50px;
 }
 
 #menu {
@@ -60,6 +62,19 @@ nav {
     padding: 0 1.5rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
+}
+
+/* Navbar toggle */
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
 /* Main Content */
