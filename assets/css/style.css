@@ -22,11 +22,10 @@ body {
 header {
     background-color: #000000;
     z-index: 99;
-    padding: 0 2rem;
+    padding: 0 1.5rem;
     position: fixed;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
-    font-size: 120%;
 }
 
 header a {
@@ -39,7 +38,17 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #ffffff;
-    
+    font-size: 200%;
+}
+
+#menu {
+    list-style-type: none;
+    font-size: 90%;
+    letter-spacing: 2px;
+    color: #ffffff;
+}
+#menu > li {
+    margin-bottom: 1em;
 }
 
 /* Main Content */
