@@ -20,7 +20,7 @@ body {
 
 /* Header */
 header {
-    background-color: #000000;
+    background-color: #90EE90;
     z-index: 99;
     padding: 0 1.5rem;
     position: fixed;
@@ -56,11 +56,11 @@ h1 {
 /* Navbar toggle styles */
 nav {
     position: absolute;
-    background-color: #000000;
+    background-color: #90EE90;
     width: 100%;
     left: 0;
     padding: 0 1.5rem;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #90EE90;
     display: none;
 }
 
@@ -88,5 +88,18 @@ main {
 
 /* Footer */
 footer {
-    background-color: blueviolet;
+    background-color: #90EE90;
+}
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff;
 }
