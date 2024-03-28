@@ -107,4 +107,22 @@ footer {
     color: #ffffff;
 }
 
-/* Media query for larger screens 
+/* Media query for larger screens (768px and up) */
+@media  screen and (min-width: 768px) {
+    /* Header */
+nav {
+    display: block;
+}
+
+.nav-toggle-label {
+    display: none;
+}
+
+#menu {
+    display: flex;
+    font-size: 15px;
+}
+#menu > li {
+    padding-left: 15rem;
+}
+}
