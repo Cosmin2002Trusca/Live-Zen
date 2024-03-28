@@ -25,7 +25,8 @@ header {
     padding: 0 1.5rem;
     position: fixed;
     width: 100%;
-    box-shadow: 0 2px 2px #3a3a3a;
+    box-shadow: 0 2px 2px #90EE90;
+    
 }
 
 header a {
@@ -76,6 +77,8 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
     color: #ffffff;
+    text-align: center;
+    padding-right: 20px;
 }
 
 /* Main Content */
@@ -103,3 +106,5 @@ footer {
     padding: 5%;
     color: #ffffff;
 }
+
+/* Media query for larger screens 
