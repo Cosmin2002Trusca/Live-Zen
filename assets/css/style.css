@@ -95,6 +95,13 @@ main {
     background: url("../images/Yoga-043-scaled.jpg") no-repeat center center/cover;
     position: relative;
 }
+
+#cover-text {
+    color:#004526;
+    text-align: center;
+    padding-top: 60px;
+
+}
 /* Footer */
 footer {
     background-color: #ffffff;
