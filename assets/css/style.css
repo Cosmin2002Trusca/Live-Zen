@@ -102,10 +102,32 @@ main {
     padding-top: 60px;
 
 }
+
 /* About us section */
 #aboutus {
     text-align: center;
 }
+
+/* Yoga page */
+
+
+.yoga-image {
+    width: 70%;
+    padding-left: 50px;
+    padding-right: 50px  ;
+}
+
+.yoga-header {
+    text-align: center;
+    color: #004526;
+}
+
+.yoga-paragraph {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 /* Footer */
 footer {
     background-color: #ffffff;
