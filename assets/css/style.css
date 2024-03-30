@@ -26,7 +26,7 @@ header {
     position: fixed;
     width: 100%;
     box-shadow: 0 2px 2px #ffffff;
-    
+
 }
 
 header a {
@@ -102,6 +102,10 @@ main {
     padding-top: 60px;
 
 }
+/* About us section */
+#aboutus {
+    text-align: center;
+}
 /* Footer */
 footer {
     background-color: #ffffff;
@@ -137,5 +141,11 @@ nav {
 }
 #menu > li {
     padding-left: 15rem;
+}
+
+#aboutus {
+    font-size: 25px;
+    padding-left: 10rem;
+    padding-right: 10rem;
 }
 }
