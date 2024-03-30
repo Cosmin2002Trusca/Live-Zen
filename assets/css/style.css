@@ -14,7 +14,7 @@ body {
     display: flex;
     flex-direction: column;
     /* Generic project styles */
-    color: #004526;
+    color: #3a3a3a;
     font-family: 'Volkhov', sans-serif;
 }
 
@@ -83,12 +83,17 @@ nav {
 
 /* Main Content */
 main {
-    background-color: aqua;
     /* Make main element push footer down */
     flex: 1 0 auto;
     margin-top: 120px;
 }
 
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%; 
+    background: url("../images/Yoga-043-scaled.jpg") no-repeat center center/cover
+}
 /* Footer */
 footer {
     background-color: #90EE90;
