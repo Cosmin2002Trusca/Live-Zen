@@ -20,12 +20,12 @@ body {
 
 /* Header */
 header {
-    background-color: #90EE90;
+    background-color: #ffffff;
     z-index: 99;
     padding: 0 1.5rem;
     position: fixed;
     width: 100%;
-    box-shadow: 0 2px 2px #90EE90;
+    box-shadow: 0 2px 2px #ffffff;
     
 }
 
@@ -57,11 +57,11 @@ h1 {
 /* Navbar toggle styles */
 nav {
     position: absolute;
-    background-color: #90EE90;
+    background-color: #ffffff;
     width: 100%;
     left: 0;
     padding: 0 1.5rem;
-    box-shadow: 0 2px 2px #90EE90;
+    box-shadow: 0 2px 2px #ffffff;
     display: none;
 }
 
@@ -92,11 +92,12 @@ main {
 #hero {
     height: 600px;
     width: 100%; 
-    background: url("../images/Yoga-043-scaled.jpg") no-repeat center center/cover
+    background: url("../images/Yoga-043-scaled.jpg") no-repeat center center/cover;
+    position: relative;
 }
 /* Footer */
 footer {
-    background-color: #90EE90;
+    background-color: #ffffff;
 }
 #social-networks {
     text-align: center;
