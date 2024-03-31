@@ -127,6 +127,11 @@ main {
     padding-right: 2rem;
 }
 
+/* Meditation page */
+.meditation-image {
+    width: 100%;
+}
+
 /* Footer */
 footer {
     background-color: #ffffff;
