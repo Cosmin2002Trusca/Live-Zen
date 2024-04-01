@@ -195,6 +195,18 @@ nav {
 #yoga-text-section {
     padding: 3rem;
     padding-left: 60rem;
-    font-size: 120%;
+    font-size: 105%;
+}
+
+/* Meditation page */
+.meditation-image {
+    float: right;
+    width: 50%;
+}
+
+#meditation-text-section {
+    padding: 3rem;
+    padding-right: 60rem;
+    font-size: 105%;
 }
 }
