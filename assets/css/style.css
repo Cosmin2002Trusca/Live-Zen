@@ -161,7 +161,7 @@ footer {
     color: #004526;
 }
 
-/* Media query for larger screens (768px and up) */
+/* Media query for larger screens (992px and up) */
 @media  screen and (min-width: 768px) {
     /* Header */
 nav {
