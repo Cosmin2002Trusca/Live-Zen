@@ -132,6 +132,17 @@ main {
     width: 100%;
 }
 
+.meditation-header {
+    text-align: center;
+    color: #004526;
+}
+
+.meditation-paragraph {
+    text-align: center;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
 /* Footer */
 footer {
     background-color: #ffffff;
