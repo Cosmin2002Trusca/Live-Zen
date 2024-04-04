@@ -190,7 +190,7 @@ footer {
 }
 
 /* Media query for larger screens (992px and up) */
-@media  screen and (min-width: 768px) {
+@media  screen and (min-width: 992px) {
     /* Header */
 nav {
     display: block;
@@ -236,5 +236,12 @@ nav {
     padding: 3rem;
     padding-right: 60rem;
     font-size: 105%;
+}
+
+/* Sign up page */
+#signup-form {
+    width: 50%;
+    padding-left: 25%;
+    padding-top: 10%;
 }
 }
